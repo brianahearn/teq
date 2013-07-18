@@ -1,2 +1,2 @@
-teq
+Educational Resources
 ===
